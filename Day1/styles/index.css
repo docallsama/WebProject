@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+.lesson,
+.lesson2 {
+  padding: 0;
+  color: red;
+}
+
+p {
+  background-color: lightblue;
+  color: green;
+}
+
+#lesson3 {
+  text-align: center;
+  color: blue;
+}
+
+#baiduWeb {
+  margin-top: 100px;
+}
